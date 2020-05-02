@@ -1,0 +1,57 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "geo buddy",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "TellMeAFact",
+          "slots": [],
+          "samples": [
+            "continue",
+            "yes tell me another one",
+            "sure",
+            "why not",
+            "yes please",
+            "yes",
+            "world facts",
+            "facts about world",
+            "tell me facts about the world",
+            "could you please tell me a geographical fact",
+            "facts about geography",
+            "a geographical fact please",
+            "give me a geographical fact",
+            "tell me a geographical fact",
+            "tell me a fact please",
+            "can you tell me a fact",
+            "speak a fact",
+            "a fact please",
+            "say me a fact",
+            "tell me a fact"
+          ]
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}
